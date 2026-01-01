@@ -1,6 +1,7 @@
 mountpoints:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
@@ -11,3 +12,6 @@ mountpoints:
 =======
   /: https://hyperavitron-my.sharepoint.com/my?id=%2Fpersonal%2Fpli%5Fhyperavitron%5Fcom%2FDocuments%2FPublic%2Fdemo
 >>>>>>> b6902ee (Update fstab.yaml)
+=======
+  /: https://hyperavitron-my.sharepoint.com/:f:/p/pli/IgB5sH9G5Bu-S7IzVtFHf7EfAR7NIgEcLCeCSrq0NrLvCbU
+>>>>>>> 53466bf (Update fstab.yaml)
